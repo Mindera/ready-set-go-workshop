@@ -1,4 +1,4 @@
 *.iml
-app/build
+**/build/
 .idea/
 .DS_Store
