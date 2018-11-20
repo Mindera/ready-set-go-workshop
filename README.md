@@ -10,7 +10,7 @@ This workshop is aimed to provide a fast integration with Go.
 ## Workshop resources
 * Chat room: https://tlk.io/mindera
 * Download Go: https://golang.org/dl/
-* Presentation:
+* Presentation: https://bit.ly/2KfubQo
 
 ## Requirements
 * Git
