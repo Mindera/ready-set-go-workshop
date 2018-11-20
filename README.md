@@ -51,7 +51,7 @@ $ docker build -t webapp .
 # after it has created the image, execute it
 $ docker run -it --rm -p 8080:8080 webapp
 ```
-Browse to http://localhost:8080/health and you should receive `health` endpoint response.
+Browse to http://localhost:8080/health and you should receive `health` endpoint response (it won't work until the challenge is complete).
 
 ## Workshop timeline summary
 * Presentation (40/45min)
